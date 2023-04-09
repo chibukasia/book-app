@@ -2,11 +2,69 @@
   "books": [
     {
       "title": "A todo item",
+      "author": "sample author",
+      "isbn": "2542",
       "id": 1
     },
     {
       "title": "A second one",
+      "author": "sample author2",
+      "isbn": "2542",
       "id": 2
+    },
+    {
+      "title": "Mr Robot",
+      "author": "Eliiot",
+      "isbn": "43443",
+      "id": 3
+    },
+    {
+      "title": "Englis AId",
+      "author": "Sample Author",
+      "isbn": "34545",
+      "id": 4
+    },
+    {
+      "title": "rrt",
+      "author": "rwr",
+      "isbn": "3245",
+      "id": 5
+    },
+    {
+      "title": "ethtjr",
+      "author": "ryjryjr",
+      "isbn": "kdduu",
+      "id": 6
+    },
+    {
+      "title": "rgwer",
+      "author": "gerge",
+      "isbn": "",
+      "id": 7
+    },
+    {
+      "title": "the river",
+      "author": "Akoko",
+      "isbn": "3433",
+      "id": 8
+    },
+    {
+      "title": "The River",
+      "author": "Source",
+      "isbn": "1234",
+      "id": 9
+    },
+    {
+      "title": "tryryk",
+      "author": "rjtj",
+      "isbn": "grth",
+      "id": 10
+    },
+    {
+      "title": "A sample book",
+      "author": "Sample Author",
+      "isbn": "1234556",
+      "id": 11
     }
   ]
 }
