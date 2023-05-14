@@ -25,19 +25,6 @@ const addBook = (e) => {
     form.reset();
     alertMessage('Book added successfully','success')
   }
-
-  //   const td = tr.querySelector("#delete");
-
-  // function deleteBook(){
-  //     let conf = confirm('Are you sure you want to delete book?')
-  //     if (conf){
-  //         tr.remove()
-  //     }
-
-  // }
-  //   td.addEventListener("click", () => {
-  //     deleteBook(tr);
-  //   });
 };
 
 function deleteBook(target) {
@@ -64,7 +51,3 @@ function alertMessage(message, alert){
     `
     setTimeout(()=>alertDiv.innerHTML='',5000)
 }
-
-
-// alert-success 
-// alert-danger 
